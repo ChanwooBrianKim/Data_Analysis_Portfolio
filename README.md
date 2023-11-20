@@ -5,7 +5,7 @@ Your business is a boutique coffee roastery, and you sell a range of products to
 
 ## Steps Taken
 1. **Question**: Questions made prior to business concern that I had to solve via data analysis
-2. **Data Loading**: Data is loaded from local CSV file and Guadian API data sets into the workplace. Clean and prepare the data for the analysis and check each data types
+2. **Data Loading**: Data is loaded from local CSV file (`coffee_sales.csv`) and Guadian API data sets into the workplace. Clean and prepare the data for the analysis and check each data types
 3. **Data Anlaysis**: Import each libraies and create tables or reorganise data based on the raw database.
 4. **Visualisation** Visualise data as a result and report is made
 
