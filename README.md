@@ -12,3 +12,5 @@ Your business is a boutique coffee roastery, and you sell a range of products to
 With the Guardian API, we could load data regaridng coffee industry. Based on the analysis above, we could find that people finds coffee more in hot weather and they willing to ignore price of coffee during that time. And also, we could find that avocado has a great effect when drinking coffee. Thus, it would be helpful to sell this product together at all stores in Brisbane to promote revenue next year.
 
 ![image](https://github.com/ChanwooBrianKim/Data_Analysis-Boutique-coffee-roastery-business-concern/assets/151323407/af8c2e14-e412-4560-aa7f-3ef9407cf097)
+
+
